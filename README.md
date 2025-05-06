@@ -1,5 +1,5 @@
 # writing_boto3_lambda_ec2_ebsvolume_snapshots_costoptimization
-Cost optimization lambda
+This is my first lambda project on cost optimization 
 
 AWS Cloud Cost Optimization - Identifying Stale Resources
 Identifying Stale EBS Snapshots
