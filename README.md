@@ -1,0 +1,2 @@
+# writing_boto3_lambda_ec2_ebsvolume_snapshots_costoptimization
+Cost optimization lambda
